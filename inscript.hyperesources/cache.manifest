@@ -1,5 +1,5 @@
 CACHE MANIFEST
-#724938768.620321
+#724958923.430333
 
 ../index.html
 HYPE-754.thin.min.js
@@ -7,5 +7,6 @@ HypeReactiveContent.prod.min.js
 stringToHex.js
 loading.gif
 xrps-logo.svg
+favicon.ico
 
 NETWORK:
